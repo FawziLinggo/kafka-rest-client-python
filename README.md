@@ -3,7 +3,8 @@ We can use jproperties module to read properties file in Python. A properties fi
 ```bash
   pip install jproperties
 ```
-
+# how to run this code
+this is just a simple program from producers and consumers using python, where the kafka cluster built already uses the HTTPS protocol, for settings can be completed in the [config.properties](config.properties) file
 # Kafka REST Proxy
 Kafka REST Proxy provides a RESTful interface to the Kafka cluster. That makes it easy to generate and deploy messages, view cluster status, and perform administrative actions without using Kafka's native protocols or clients. in this repository using the python programming language by creating a simple producer and consumer
 
